@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/Jugeun-Park-kr/
+          GIST_ID: https://gist.github.com/Jugeun-Park-kr/asdf
           TIMEZONE: Asia/Seoul
